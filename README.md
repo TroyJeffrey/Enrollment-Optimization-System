@@ -1,6 +1,6 @@
 # Enrollment-Optimization-System
 
-# StudyFinder Database Management
+### StudyFinder Database Management
 
 The "Data-Driven Enrollment Optimization System" is a data science project that focuses on managing the StudyFinder database to optimize student enrollment in educational programs. This project involves the extraction, transformation, and analysis of student data to identify patterns, preferences, and trends. By leveraging machine learning algorithms and predictive modeling, the system aims to provide valuable insights for educational institutions to optimize program offerings, improve recruitment strategies, and enhance student retention. The Data-Driven Enrollment Optimization System empowers decision-makers with data-driven recommendations to make informed choices that maximize enrollment success and academic outcomes.
 
