@@ -1,8 +1,8 @@
-# Enrollment-Optimization-System
+# From Leads to Insights: Email Data Extraction Database Management Tool
 
-### StudyFinder Database Management
+### Database Management Tool
 
-The "Data-Driven Enrollment Optimization System" is a data science project that focuses on managing the StudyFinder database to optimize student enrollment in educational programs. This project involves the extraction, transformation, and analysis of student data to identify patterns, preferences, and trends. By leveraging machine learning algorithms and predictive modeling, the system aims to provide valuable insights for educational institutions to optimize program offerings, improve recruitment strategies, and enhance student retention. The Data-Driven Enrollment Optimization System empowers decision-makers with data-driven recommendations to make informed choices that maximize enrollment success and academic outcomes.
+"From Leads to Insights: Email Data Extraction" is a data engineering project that focuses on managing the StudyFinder database to optimize student enrollment in educational programs. This project involves the extraction, transformation, and analysis of student data to identify patterns, preferences, and trends. By leveraging machine learning algorithms and predictive modeling, the system aims to provide valuable insights for educational institutions to optimize program offerings, improve recruitment strategies, and enhance student retention. The Data-Driven enrollment optimization system empowers decision-makers with data-driven recommendations to make informed choices that maximize enrollment success and academic outcomes.
 
 - Implemented a Python script to extract and parse email data, storing it in a structured format.
 - Utilized regular expressions to extract relevant information such as names, email addresses, contact details, and program preferences from email messages.
